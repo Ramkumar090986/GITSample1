@@ -15,6 +15,8 @@ public class Sample {
 		avg=sum/2;
 		
 		System.out.println("Average:"+avg);
+		
+		System.out.println("Samp1 code added");
 	}
 
 }
