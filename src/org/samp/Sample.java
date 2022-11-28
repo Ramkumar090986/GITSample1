@@ -15,7 +15,12 @@ public class Sample {
 		
 		System.out.println("Average:"+avg);
 		
+		System.out.println("Samp1 code added"); 
+		
 		System.out.println("Samp2 code updated");
+
+	
+
 	}
 
 }
